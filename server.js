@@ -62,6 +62,14 @@ const aliens = {
         'interestingFact': 'Some Trill are willin hosts to a long-lived invertibrate symbiote that merges with the host to create a distinct personality.' ,
         'notableExamples' : "Jadzia Dax, Ezri Dax, Curzon Dax",
         'image': 'https://static.wikia.nocookie.net/aliens/images/4/42/EzriDax.jpg'
+    },
+    'dwayne':{
+        'speciesName' : 'DGorn',
+        'homeworld': 'quadrant WinstedEarth',
+        'features':'Outward appearance similar to humans, aside from scaly green skin, large, iridescent eyes, powerful build, sharp teeth',
+        'interestingFact': 'Some DGorns are Extremely militaristic and driven to conquer the saha world, but also possess advanced musical knowledge allowing for superior jazz fusion playlists.' ,
+        'notableExamples' : "Jazmin Troi, Gail Dax, Q Guy",
+        'image': '/images/DGorn.jpg'
     }
 }
 
